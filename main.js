@@ -87,7 +87,7 @@ function typeText() {
           animate();
       }, 0);
       // Change background to bggif.gif
-    }, 6000);
+    }, 4000);
   }
 }
 
